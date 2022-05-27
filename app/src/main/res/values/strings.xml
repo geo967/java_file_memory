@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">filesystem</string>
+    <string name="details1" />
+    <string name="username" />
+    <string name="password" />
+    <string name="enter_your_name" />
+    <string name="your_password" />
+    <string name="login" />
+    <string name="username1">userName</string>
+    <string name="password1">Password</string>
+    <string name="submit">Submit</string>
+    <string name="details">Details</string>
+    <string name="load">load</string>
+</resources>
